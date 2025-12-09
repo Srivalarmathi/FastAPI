@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+python-docx
+sentence-transformers
+transformers
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+regex
+python-dotenv
